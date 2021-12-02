@@ -4,6 +4,6 @@ utilizing React.js, deployed with AWS Amplify
 
 ## Preview of Live Site: 
 
-![_GithubLivePreview](https://sunpopbucket.s3.us-west-1.amazonaws.com/images/SunPopLandingDemo.png)
+![_GithubLivePreview](https://user-images.githubusercontent.com/77559358/144517530-6027cca2-aa32-43c9-812d-ab5ecb7febe6.png)
 
 View deployed site here: https://sunpopshop.com
